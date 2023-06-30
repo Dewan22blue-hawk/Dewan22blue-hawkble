@@ -3,10 +3,10 @@
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning Flutter, Go
+- 🌱 &nbsp;I’m currently learning data analyst with python, and web development
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
-- 👨‍💻 &nbsp;Read more about my projects at [gautamkrishnar.com](https://www.gautamkrishnar.com/#portfolio)
-- ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [GKRXtreme](https://account.xbox.com/en-us/profile?gamertag=GKRXtreme))
+- 👨‍💻 &nbsp;Read more about my projects at [dewan22.com](https://dewan22blue-hawk.github.io/dewan.github.io/)
+- ⚡ &nbsp;Fun fact: I :heart: :dog:s and MLBB Gaming (GamerTag: [MLJ](https://account.xbox.com/en-us/profile?gamertag=GKRXtreme))
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
